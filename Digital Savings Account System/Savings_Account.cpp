@@ -28,8 +28,6 @@ void Savings_Account::Create_Account()
     cout<<"Enter the account Balance :- ";
     cin>>Current_Balance;
     cout<<endl;
-
-
 }
 
 char Savings_Account::Search_Account(double x)
