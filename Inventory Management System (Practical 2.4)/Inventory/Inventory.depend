@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1771496684 source:d:\devansh vaghela\c++ language\inventory\invcls.cpp
+	"invcls.h"
+	<iostream>
+
+1771496721 d:\devansh vaghela\c++ language\inventory\invcls.h
+	<iostream>
+	<string.h>
+
+1771496740 source:d:\devansh vaghela\c++ language\inventory\main.cpp
+	"invcls.h"
+	<iostream>
+	<string.h>
+
+1771496740 source:d:\devansh vaghela\c++ language\inventory management system\inventory\main.cpp
+	"invcls.h"
+	<iostream>
+	<string.h>
+
