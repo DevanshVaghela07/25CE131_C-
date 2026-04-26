@@ -1,0 +1,1 @@
+Write a C++ program to read a text file containing multiple lines and manually count the total number of characters, words, and lines. The program must process the file line-byline using basic string operations and handle errors if the file does not exist or fails to open.
